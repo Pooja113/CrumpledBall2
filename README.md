@@ -1,2 +1,1 @@
-# CrumpledBall2
-CrumpledBall2
+# CrumpledPaper
